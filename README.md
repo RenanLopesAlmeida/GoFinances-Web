@@ -8,6 +8,7 @@
 - Typescript
 - React-hooks
 - styled-components
+- react-dropzone
 - axios
 
 ### Back:
